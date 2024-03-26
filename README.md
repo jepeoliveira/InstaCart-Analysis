@@ -40,33 +40,31 @@ Here are the questions broken down with each bullet point:
 By addressing these questions through data analysis and insights generation, Instacart can refine its marketing strategies, enhance customer engagement, and ultimately drive sales growth.
 
 
-# Data Source
+## Data Source
 
 The project leverages open-source datasets from Instacart, complemented by specially created customer datasets. These resources are integral to addressing the outlined business questions.
+The dataset includes information on orders, products, customers, and departments.
+Additionally, a customer dataset with the column 'prices' was appended to the original dataset for educational purposes within the Career Foundry course.
 
-# Stakeholders
+## Tools:
 
-The insights derived from this analysis will cater to:
+- Python was utilized for data analysis, employing various libraries including Pandas for data analysis, Numpy for mathematical operations, Seaborn and Matplotlib for data visualization, and SciPy for mathematical computations.
 
-1. **The Vice President of Marketing**:
-   - Providing actionable data to refine marketing strategies.
-   - Offering insights into customer preferences, peak order times, and spending habits.
-   - Aligning promotional efforts with identified growth opportunities.
+## Folders:
 
-2. **The Senior Vice President of Sales**:
-   - Furnishing insights into product popularity, pricing strategies, and departmental preferences.
-   - Informing sales strategies to maximize revenue and capitalize on market trends.
-   - Identifying opportunities for cross-selling or upselling based on customer behavior analysis.
+- Project files are organized into different folders:
+  - 01 Project Management: Consists of the Project Brief and Data Dictionary.
+  - 02 Data: Subdivided into Original and Prepared Data subfolders, housing the initial datasets and the cleaned and preprocessed datasets, respectively. (Due to size constraints, data files were not uploaded to GitHub.)
+  - 03 Scripts: Contains Jupyter notebooks containing code for analysis.
+  - 04 Analysis: Further divided into Reports and Visualizations subfolders. Reports encompass crosstabs, while Visualizations contain graphical representations utilized for uncovering and elucidating insights.
+  - 05 Sent to Client: This folder holds the final report, presented in Excel format.
 
-3. **Instacart Customers**:
-   - Enhancing the overall shopping experience by tailoring offerings to customer preferences.
-   - Providing personalized recommendations and promotions aligned with individual shopping behaviors.
-   - Increasing customer satisfaction and loyalty by addressing specific needs and preferences.
+## Resources:
 
-The goal is to align marketing strategies with customer preferences and uncover growth opportunities within Instacart's offerings, ultimately driving customer satisfaction, loyalty, and revenue growth.
+- Note: The dataset utilized for analysis is sourced from Instacart, a real company that has made its data publicly accessible online. However, the contents of the attached project brief have been fabricated by CareerFoundry exclusively for the purposes of this analysis.
 
 
-# Final Deliverable
+## Final Deliverable
 
 For a comprehensive view of my findings and recommendations, please refer to the Final Project PDF as well as the Instacart Basket Analysis 2-2024 zip containing all datasets, graphs, and reports.
 
