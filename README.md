@@ -66,6 +66,6 @@ Additionally, a customer dataset with the column 'prices' was appended to the or
 
 ## Final Deliverable
 
-For a comprehensive view of my findings and recommendations, please refer to the Final Project PDF as well as the Instacart Basket Analysis 2-2024 zip containing all datasets, graphs, and reports.
+For a comprehensive view of my findings and recommendations look for my files containing all datasets, graphs, and reports.
 
 This analysis goes beyond uncovering current trends; it also involves predicting future customer behaviors. By doing so, Instacart can proactively adapt its strategies to stay ahead in a competitive market landscape.
